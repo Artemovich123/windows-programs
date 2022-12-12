@@ -5,7 +5,8 @@
 
 
 
-![купить usb кабель для интарактивной доски](https://github.com/Artemovich123/SHOOL27-INFO-REPOSITORY/blob/photo/am-bm.jpg)
+1. кабель USB AM-AB
+![usb кабель для интарактивной доски](https://github.com/Artemovich123/SHOOL27-INFO-REPOSITORY/blob/photo/am-bm.jpg)
 
 
 
