@@ -1,5 +1,5 @@
 # SHOOL27-INFO-REPOSITORY
-![shool](https://github.com/Artemovich123/SHOOL27-INFO-REPOSITORY/blob/photo/sh27.png)
+!![shool](https://github.com/Artemovich123/SHOOL27-INFO-REPOSITORY/blob/photo/sh27.png)
 
 
 
