@@ -19,7 +19,7 @@
 
 ScreenShot (prnt.sc)
 
-![11(
+![11(https://github.com/Artemovich123/DATA-CENTER/tree/photo)](https://github.com/Artemovich123/DATA-CENTER/tree/photo)
 
 
 https://tinyurl.com/screen11362
