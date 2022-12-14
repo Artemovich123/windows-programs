@@ -20,7 +20,7 @@ ProcessHacker = аналог диспечера задач download: \\/
 
 Alice vocice assistant setup = установщик алисы НО без яндекс-браузера download: \\/
   
-[![Download](https://github.com/Artemovich123/crismaself/blob/Artemovich123-patch-1/download.png)]([5555555](https://drive.google.com/file/d/1uAcWVNzhQzF8ua7psc9uCFkizmcIkkwS/view?usp=share_link))
+[![Download](https://github.com/Artemovich123/crismaself/blob/Artemovich123-patch-1/download.png)]([[URL](https://drive.google.com/file/d/1uAcWVNzhQzF8ua7psc9uCFkizmcIkkwS/view?usp=share_link)](https://drive.google.com/file/d/1uAcWVNzhQzF8ua7psc9uCFkizmcIkkwS/view?usp=share_link))
 
 ActivAtor windows = активатор windows. #совет: активация HWID не слетает download: > https://drive.google.com/file/d/13lpI3UmSpxh9Uc8Nyk0V_t8_y61txhJ_/view?usp=share_link
 
