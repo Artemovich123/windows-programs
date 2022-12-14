@@ -7,7 +7,7 @@
 
 скачать старую активированую версию: https://atta.co
 
-SimpleVideoPlayer = Медиа плеер, функции сходи с AIMP но весит он 500 КБ download: https://drive.google.com/file/d/1O-055bzI-sUrAUe92Yszr_IVHQXRR6d8/view?usp=share_link
+SimpleVideoPlayer = Медиа плеер, функции сходи с AIMP но весит он 500 КБ download: [![Download](https://github.com/Artemovich123/crismaself/blob/Artemovich123-patch-1/download.png)](https://drive.google.com/file/d/1O-055bzI-sUrAUe92Yszr_IVHQXRR6d8/view?usp=share_link)
 
 ProcessHacker = аналог диспечера задач download: https://drive.google.com/file/d/1Q4Ul0uYgGC7qQdzqVhafXPx-b0NoPMCe/view?usp=share_link
 
