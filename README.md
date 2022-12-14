@@ -7,11 +7,11 @@
 
 скачать старую активированую версию: https://atta.co
 
-SimpleVideoPlayer = Медиа плеер, функции сходи с AIMP но весит он 500 КБ download: https://atta.co
+SimpleVideoPlayer = Медиа плеер, функции сходи с AIMP но весит он 500 КБ download: https://drive.google.com/file/d/1O-055bzI-sUrAUe92Yszr_IVHQXRR6d8/view?usp=share_link
 
-ProcessHacker = аналог диспечера задач download: https://atta.co
+ProcessHacker = аналог диспечера задач download: https://drive.google.com/file/d/1Q4Ul0uYgGC7qQdzqVhafXPx-b0NoPMCe/view?usp=share_link
 
-Alice vocice assistant setup = установщик алисы НО без яндекс-браузера download: https://atta.co
+Alice vocice assistant setup = установщик алисы НО без яндекс-браузера download: 
 
 ActivAtor windows = активатор windows. #совет: активация HWID не слетает download: https://atta.co
 
