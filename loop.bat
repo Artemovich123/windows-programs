@@ -8,4 +8,6 @@ ech obuild 90%
 timeout 3
 echo build 100%
 echo OK
+ping google.com
+ping localhost
 goto check
